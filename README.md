@@ -1,5 +1,8 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
+<img src="https://github.com/Zohaib-4/Zohaib-4/blob/main/image.jpeg" alt="Muhammad Zohaib">
+</p>
+<p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Muhammad+Zohaib;Software+Engineer;Backend+Developer;Data+Scientist;%40Zohaib-04">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=Zohaib-4&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
