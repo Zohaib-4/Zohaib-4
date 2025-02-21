@@ -77,8 +77,7 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-4&layout=compact&theme=github_dark&langs_count=8">
 </p>
 
 <hr>
