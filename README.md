@@ -7,11 +7,11 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development & Data Science**
+- 🌱 I’m currently learning **Android Development & Data Science**
 
 - 👨‍💻 Explore my projects at [Zohaib-4](https://github.com/Zohaib-4?tab=repositories)
 
-- 💬 Ask me about **Django, Data Science, AI & Machine Learning**
+- 💬 Ask me about **Django, Data Science, AI & Machine Learning, Android Dev**
 
 - 📫 Reach me at **m.zohaib6363@gmail.com**
 
